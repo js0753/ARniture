@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435082287533",
+    "project_id": "arniture-e325a",
+    "storage_bucket": "arniture-e325a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435082287533:android:e687f9ab247a01c54a2924",
+        "android_client_info": {
+          "package_name": "com.example.arniture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435082287533-q8c8g0cq9n9vbk50luvc23c4h6uprdl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbfECkdYIdSk5tODo9z_D4tb1iaExpFRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435082287533-q8c8g0cq9n9vbk50luvc23c4h6uprdl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
